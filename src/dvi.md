@@ -8,7 +8,7 @@
    2.1. [Calculator](#Calculator) \
    2.2. [Graphs](#Graphs) \
    3.3. [Credit Calc](#Credit Calc) \
-   3.3. [Deposit Calc](#Deposit Calc)
+   3.4. [Deposit Calc](#Deposit Calc)
 4. [Удаление](#Удаление)
 
 ## Установка
