@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/arrow_down</file>
+        <file>img/back</file>
+        <file>img/checked</file>
+        <file>img/checked50</file>
+        <file>img/down</file>
+        <file>img/down_arrow</file>
+        <file>img/forward</file>
+        <file>img/radio_off</file>
+        <file>img/radio_on</file>
+        <file>img/unchecked</file>
+    </qresource>
+</RCC>
