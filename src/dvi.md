@@ -7,7 +7,7 @@
 3. [Описание SmartCalc v1.0](#Описание SmartCalc v1.0) \
    2.1. [Calculator](#Calculator) \
    2.2. [Graphs](#Graphs) \
-   3.3. [Credit Calc](#Credit Calc) \
+   3.3. [Credit Calc](#CreditCalc) \
    3.4. [Deposit Calc](#Deposit Calc)
 4. [Удаление](#Удаление)
 
@@ -58,7 +58,7 @@
 Если установить галку на Slowly, то график будет рисоваться медленно (данную опцию лучше использовать с наименьшей 
 областью определения и наибольшим шагом).
 
-## Credit Calc
+## CreditCalc
 
 ![](files/img/credit.png)
 Кредитный калькулятор позволяет рассчитать ежемесячный платеж по кредиту.
