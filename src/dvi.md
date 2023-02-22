@@ -4,11 +4,11 @@
 
 1. [Установка](#Установка)
 2. [Создание архива](#Создание_архива)
-3. [Описание SmartCalc v1.0](#Описание SmartCalc v1.0) \
+3. [Описание SmartCalc v1.0](#Описание_SmartCalc_v1.0) \
    2.1. [Calculator](#Calculator) \
    2.2. [Graphs](#Graphs) \
-   3.3. [Credit Calc](#CreditCalc) \
-   3.4. [Deposit Calc](#Deposit Calc)
+   3.3. [Credit Calc](#Credit_Calc) \
+   3.4. [Deposit Calc](#Deposit_Calc)
 4. [Удаление](#Удаление)
 
 ## Установка
